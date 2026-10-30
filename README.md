@@ -10,7 +10,11 @@ Backend .NET developer from Mexico with 4 years building HR and payroll systems:
 
 Tech I work with
 
-Backend: language: C# · .NET · ASP.NET MVC · Web API · Windows Services Data: SQL Server (T-SQL, stored procedures, query tuning) · Dapper · Entity Framework Desktop: WPF · Win32 interop Frontend: Javascript · jQuery · Kendo UI · Bootstrap Also: Node.js · Git · Visual Studio · SSMS
+Backend: language: C# · .NET · ASP.NET MVC · Web API · Windows Services Data: SQL Server (T-SQL, stored procedures, query tuning) · Dapper · Entity Framework Desktop: WPF · Win32 interop
+
+Frontend: Javascript · jQuery · Kendo UI · Bootstrap 
+
+Also: Node.js · Git · Visual Studio · SSMS
 
 Featured project
 
