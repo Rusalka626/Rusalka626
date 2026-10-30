@@ -5,11 +5,12 @@ Backend .NET developer from Mexico with 4 years building HR and payroll systems:
 💼 I build custom modules for an enterprise HR/payroll platform: employee self-service portals, payroll file generation and data integrations
 
 🔌 Integrations I've worked on: SAP (flat files and interface services), SFTP file delivery, REST APIs, and Mexican CFDI payroll receipts
+
 🌱 Currently learning: ASP.NET Core, React and TypeScript
 
 Tech I work with
 
-Backend: language: C# · .NET · ASP.NET MVC · Web API · Windows Services Data: SQL Server (T-SQL, stored procedures, query tuning) · Dapper · Entity Framework Desktop: WPF · Win32 interop Frontend: language:javascript · jQuery · Kendo UI · Bootstrap Also: Node.js · Git · Visual Studio · SSMS
+Backend: language: C# · .NET · ASP.NET MVC · Web API · Windows Services Data: SQL Server (T-SQL, stored procedures, query tuning) · Dapper · Entity Framework Desktop: WPF · Win32 interop Frontend: Javascript · jQuery · Kendo UI · Bootstrap Also: Node.js · Git · Visual Studio · SSMS
 
 Featured project
 
