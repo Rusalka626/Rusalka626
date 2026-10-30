@@ -1,21 +1,26 @@
-## Hi, I'm Moisés 👋
+### Hi, I'm Moisés 👋
 
-Backend .NET developer from Mexico with 4 years building HR and payroll systems: web modules, Windows services and integrations that move employee and payroll data between systems.
+Backend .NET developer from Mexico with 4 years building **HR and payroll systems**: web modules, Windows services and integrations that move employee and payroll data between systems.
 
-💼 I build custom modules for an enterprise HR/payroll platform: employee self-service portals, payroll file generation and data integrations
+- 💼 I build custom modules for an enterprise HR/payroll platform: employee self-service portals, payroll file generation and data integrations
+- 🔌 Integrations I've worked on: **SAP** (flat files and interface services), **SFTP** file delivery, REST APIs, and Mexican **CFDI** payroll receipts
+- 🌱 Currently learning: **ASP.NET Core**, **React** and **TypeScript**
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/moises-maldonado)
 
-🔌 Integrations I've worked on: SAP (flat files and interface services), SFTP file delivery, REST APIs, and Mexican CFDI payroll receipts
+### Tech I work with
 
-🌱 Currently learning: ASP.NET Core, React and TypeScript
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,jquery,bootstrap,java,nodejs,git,github,visualstudio" alt="C#, .NET, JavaScript, jQuery, Bootstrap, Java, Node.js, Git, GitHub, Visual Studio" />
+</p>
 
-Tech I work with
+**Also:** SQL Server (T-SQL, stored procedures) · ASP.NET MVC · Web API · Windows Services · WPF · Dapper · Kendo UI
 
-Backend: language: C# · .NET · ASP.NET MVC · Web API · Windows Services Data: SQL Server (T-SQL, stored procedures, query tuning) · Dapper · Entity Framework Desktop: WPF · Win32 interop
+### Learning
 
-Frontend: Javascript · jQuery · Kendo UI · Bootstrap 
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts" alt="React, TypeScript" />
+</p>
 
-Also: Node.js · Git · Visual Studio · SSMS
+### Featured project
 
-Featured project
-
-StayActive: a Windows tray app that keeps your PC from going idle. Built with C#, WPF and the Win32 SendInput API.
+**[StayActive](https://github.com/Rusalka626/StayActive)**: a Windows tray app that keeps your PC from going idle. Built with C#, WPF and the Win32 `SendInput` API.
